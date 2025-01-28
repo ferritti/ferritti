@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hello, World!
+Welcome to my profile! I'm thrilled to have you here. 🚀 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreaferritti)
 
-<!--
-**ferritti/ferritti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 💫 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Bachelor's Student in Computer Engineering**
+
+💡 Constantly learning and exploring new technologies.
+
+
+### 📊 Some Stats:
+
+<a href="https://github.com/ferritti/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferritti&hide=html" />
+</a>
+<a href="https://github.com/ferritti/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferritti&count_private=true&show_icons=true&line_height=33" alt="ferritti's github stats" />
+</a>
