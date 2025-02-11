@@ -1,4 +1,4 @@
-## 👋 Hello, World!
+## 👋 Hi there!
 Welcome to my profile! I'm thrilled to have you here. 🚀 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreaferritti)
 
 
@@ -18,6 +18,5 @@ Welcome to my profile! I'm thrilled to have you here. 🚀 [![LinkedIn](https://
 </a>
 
 #### ⚡ Recent Project
-<!--START_SECTION:activity-->  
-1. **AI - Phase Transition in Random SAT Problems**: [Repository](https://github.com/ferritti/SATPhaseTransition) | [Documentation](https://github.com/ferritti/SATPhaseTransition/blob/main/SATPhaseTransition.pdf)  
-<!--END_SECTION:activity-->  
+1. **AI - Phase Transition in Random SAT Problems**: [Repository](https://github.com/ferritti/SATPhaseTransition) | [Documentation (Italian)](https://github.com/ferritti/SATPhaseTransition/blob/main/SATPhaseTransition.pdf)  
+2. **Pattern Matching Algorithms Comparison**: [Repository](https://github.com/ferritti/PatternMatchingComparison) | [Documentation (Italian)](https://github.com/ferritti/PatternMatchingComparison/blob/main/PatternMatchingComparison.pdf) 
