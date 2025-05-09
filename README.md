@@ -6,8 +6,6 @@ Welcome to my profile! I'm thrilled to have you here. 🚀 [![LinkedIn](https://
 
 🎓 **Bachelor's Student in Computer Engineering**
 
-💡 Constantly learning and exploring new technologies.
-
 #### ⚡ Recent Project
 1. **BarberShop - Appointment Booking Software**: [Repository]()  |  [Documentation (Italian)]()
 2. **Phase Transition in Random SAT Problems**: [Repository](https://github.com/ferritti/SATPhaseTransition) | [Documentation (Italian)](https://github.com/ferritti/SATPhaseTransition/blob/main/SATPhaseTransition.pdf)  
