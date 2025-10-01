@@ -4,7 +4,7 @@ Welcome to my profile! I'm thrilled to have you here. 🚀 [![LinkedIn](https://
 
 ### 💫 About Me:
 
-🎓 **Bachelor's Student in Computer Engineering**
+🎓 **BSc in Computer Engineering**
 
 #### ⚡ Recent Project
 1. **ArtLens**: [Repository](https://github.com/ferritti/ArtLens)
