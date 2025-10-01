@@ -5,6 +5,7 @@ Welcome to my profile! I'm thrilled to have you here. 🚀 [![LinkedIn](https://
 ### 💫 About Me:
 
 🎓 **BSc in Computer Engineering**
+
 🎓 **MSc student in Artificial Intelligence and Computer Science**
 
 #### ⚡ Recent Project
