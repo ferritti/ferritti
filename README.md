@@ -11,7 +11,7 @@ MSc student in Computer Science and Engineering (AI track) at **Politecnico di M
 | [ArtLens](https://github.com/ferritti/ArtLens) | BSc thesis: web app that recognizes artworks on the phone in ~27 ms, with 88% top-1 accuracy | TensorFlow.js, MediaPipe, FastAPI, PostgreSQL, Docker |
 | [Three-Body Neural Emulator](https://github.com/ferritti/three-body-neural-emulator) | Neural network that predicts a chaotic three-body system in ~1 ms instead of minutes to hours, plus a Bayesian version for uncertainty | PyTorch |
 | [Bayesian Model Calibration](https://github.com/ferritti/bayesian-eft-calibration) | Bayesian calibration of a nuclear-physics model with MCMC and an emulator ~10⁶× faster than the full solver | NumPy, SciPy, emcee |
-| [BarberShop](https://github.com/ferritti/BarberShop) | Desktop booking app with 163 tests and 96% code coverage (team of 3) | Java, JavaFX, PostgreSQL, JUnit |
+| [BarberShop](https://github.com/ferritti/BarberShop) | Desktop booking app with 163 tests and 96% code coverage | Java, JavaFX, PostgreSQL, JUnit |
 
 ### Tech I use most
 Python · PyTorch · TensorFlow · scikit-learn · pandas · SQL · FastAPI · Docker · Git
